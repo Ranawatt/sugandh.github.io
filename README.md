@@ -1,13 +1,8 @@
 # GitHub Portfolio
 
-### If you're struggling to create a portfolio website that looks professional, you don't have to search any further. You can use this GitHub Portfolio template to create your very own personalized portfolio using just your GitHub username! The website is designed to be user-friendly and easily customizable, which makes it an ideal solution for developers and freelancers alike.
+### A versatile and high-energy Android framework and Rust developer with nearly 9.5 years of experience in software development and project execution. Adept in analyzing and optimizing system performance, focusing on memory management, CPU usage and rendering efficiency, designing custom solutions, and troubleshooting complex issues. Proven track record in managing large-scale projects and delivering high-quality solutions within strict timelines.
 
 ---
-
-# Demo :movie_camera:
-
-![httpsgithub abusaid me](https://github.com/said7388/github-portfolio/assets/77630868/a331f996-1b4d-451a-941f-a15f5ae6de93)
-
 
 ## View live preview [here](https://my-github-portfolio.netlify.app/)
 
@@ -77,17 +72,19 @@ Eg:
 
 ```javascript
 export const userData = {
-  githubUser: "said7388",
-  devUsername: "said7388",
-  github: "https://github.com/said7388",
-  facebook: "https://www.facebook.com/abusaid.riyaz/",
-  linkedIn: "https://www.linkedin.com/in/abu-said-bd/",
-  twitter: "https://twitter.com/said7388",
-  stackOverflow: "https://stackoverflow.com/users/16840768/abu-said",
-  leetcode: "https://leetcode.com/said3812/",
+  githubUser: "Ranawatt",
+  devUsername: "su_koder",
+  github: "https://github.com/Ranawatt",
+  linkedIn: "https://www.linkedin.com/in/sugandh-kumar-816181a1/",
+  twitter: "https://x.com/kumar_suga",
+  stackOverflow: "https://stackoverflow.com/users/7424149/sugandh-kumar",
+  leetcode: "https://leetcode.com/u/su_koder/",
   resume:
     "https://drive.google.com/file/d/1eyutpKFFhJ9X-qpQGKhUNnVRkB5Wer00/view?usp=sharing",
   skills: [
+    "Rust",
+    "C++",
+    "Java",
     "React",
     "NextJS",
     "Redux",
