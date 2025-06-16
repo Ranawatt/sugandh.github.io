@@ -4,6 +4,9 @@
 
 ---
 
+[![Check out Ranawatt's profile](https://stardev.io/developers/Ranawatt/badge/languages/locality.svg)]
+(https://stardev.io/developers/Ranawatt)
+
 ## View live preview [here](https://my-github-portfolio.netlify.app/)
 
 ---
