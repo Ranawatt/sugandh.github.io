@@ -3,9 +3,7 @@
 ### A versatile and high-energy Android framework and Rust developer with nearly 9.5 years of experience in software development and project execution. Adept in analyzing and optimizing system performance, focusing on memory management, CPU usage and rendering efficiency, designing custom solutions, and troubleshooting complex issues. Proven track record in managing large-scale projects and delivering high-quality solutions within strict timelines.
 
 ---
-
-[![Check out Ranawatt's profile](https://stardev.io/developers/Ranawatt/badge/languages/locality.svg)]
-(https://stardev.io/developers/Ranawatt)
+[![Check out Ranawatt's profile on stardev.io](https://stardev.io/developers/Ranawatt/badge/languages/locality.svg)](https://stardev.io/developers/Ranawatt)
 
 ## View live preview [here](https://my-github-portfolio.netlify.app/)
 
