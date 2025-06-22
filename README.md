@@ -53,7 +53,7 @@ yarn install
 Then, run the development server:
 
 ```bash
-npm run dev
+npm run dev --turbopack
 # or
 yarn dev
 ```
@@ -72,7 +72,7 @@ Eg:
 NEXT_PUBLIC_GTM = ""
 ```
 
-### Now, you have to customize user data in the `data` [folder](https://github.com/said7388/developer-portfolio/tree/main/data).
+### Now, you have to customize user data in the `data` [folder](https://github.com/Ranawatt/sugandh.github.io/tree/main/data).
 
 Eg:
 
