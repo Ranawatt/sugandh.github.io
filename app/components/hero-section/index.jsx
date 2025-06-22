@@ -7,6 +7,7 @@ import { BsGithub, BsLinkedin } from "react-icons/bs";
 import { FaFacebook, FaTwitterSquare } from "react-icons/fa";
 import { MdDownload } from "react-icons/md";
 import { SiLeetcode } from "react-icons/si";
+import React from 'react';
 
 function HeroSection({ profile }) {
 
@@ -134,20 +135,20 @@ function HeroSection({ profile }) {
                 <span className="text-gray-400">{`['`}</span>
                 {
                   userData.skills.map((skill, i) => (
-                    <>
+                    <React.Fragment key={i}>
                       <span className="text-cyan-400">{skill}</span>
                       {
                         i !== userData.skills.length - 1 &&
                         <span className="text-gray-400">{"', '"}</span>
                       }
-                    </>
+                    </React.Fragment>
                   ))
                 }
-                <span className="text-gray-400">{"'],"}</span>
+                <span className="text-gray-400">{"']"}</span>
               </div>
               <div>
                 <span className="ml-4 lg:ml-8 mr-2 text-white">hireable:</span>
-                <span className="text-orange-400">{profile?.hireable.toString()}</span>
+                <span className="text-orange-400">{profile?.hireable != null ? profile.hireable.toString() : "true"}</span>
                 <span className="text-gray-400">,</span>
               </div>
               <div><span className="text-gray-400">{`};`}</span></div>
