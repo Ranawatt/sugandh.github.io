@@ -4,9 +4,9 @@
 
 ---
 
-[![](https://raw.githubusercontent.com/Ranawatt/sugandh-profile/master/profile-summary-card-output/blue_green/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/Ranawatt/sugandh-profile/master/profile-summary-card-output/blue_green/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/Ranawatt/sugandh-profile/master/profile-summary-card-output/blue_green/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/Ranawatt/sugandh-profile/master/profile-summary-card-output/blue_green/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/Ranawatt/sugandh-profile/master/profile-summary-card-output/blue_green/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/Ranawatt/sugandh-profile/master/profile-summary-card-output/blue_green/0-profile-details.svg)](https://github.com/Ranawatt/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/Ranawatt/sugandh-profile/master/profile-summary-card-output/blue_green/1-repos-per-language.svg)](https://github.com/Ranawatt/github-profile-summary-cards) [![](https://raw.githubusercontent.com/Ranawatt/sugandh-profile/master/profile-summary-card-output/blue_green/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/Ranawatt/sugandh-profile/master/profile-summary-card-output/blue_green/3-stats.svg)](https://github.com/Ranawatt/github-profile-summary-cards) [![](https://raw.githubusercontent.com/Ranawatt/sugandh-profile/master/profile-summary-card-output/blue_green/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
 [![Check out Ranawatt's profile on stardev.io](https://stardev.io/developers/Ranawatt/badge/languages/locality.svg)](https://stardev.io/developers/Ranawatt)
 
@@ -86,7 +86,7 @@ export const userData = {
   stackOverflow: "https://stackoverflow.com/users/7424149/sugandh-kumar",
   leetcode: "https://leetcode.com/u/su_koder/",
   resume:
-    "https://drive.google.com/file/d/1eyutpKFFhJ9X-qpQGKhUNnVRkB5Wer00/view?usp=sharing",
+    "https://drive.google.com/file/d/1PA2J7lYmbTM6ex9coOgXn0boledW4U9L/view?usp=sharing",
   skills: [
     "Rust",
     "C++",
