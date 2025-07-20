@@ -1,6 +1,6 @@
 # GitHub Portfolio
 
-### A versatile and high-energy Android framework and Rust developer with nearly 9.5 years of experience in software development and project execution. Adept in analyzing and optimizing system performance, focusing on memory management, CPU usage and rendering efficiency, designing custom solutions, and troubleshooting complex issues. Proven track record in managing large-scale projects and delivering high-quality solutions within strict timelines.
+### A versatile and high-energy Android framework and Rust developer ###
 
 ---
 
