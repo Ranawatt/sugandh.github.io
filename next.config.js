@@ -5,7 +5,50 @@ module.exports = {
     includePaths: [path.join(__dirname, 'styles')],
   },
   images: {
-    domains: ['media.dev.to', 'avatars.githubusercontent.com', 'github-readme-stats.vercel.app', 'github-readme-streak-stats.herokuapp.com', 'stardev.io', 'github-profile-summary-cards.vercel.app', 'github-profile-trophy.vercel.app'],
+    remotePatterns: [
+        {
+          protocol: 'https',
+          hostname: 'media.dev.to',
+          port: '',
+          pathname: '/user_uploads/**',
+        },
+        {
+          protocol: 'https',
+          hostname: 'avatars.githubusercontent.com',
+          port: '',
+          pathname: '/**',
+        },
+        {
+          protocol: 'https',
+          hostname: 'github-readme-stats.vercel.app',
+          port: '',
+          pathname: '/**',
+        },
+        {
+          protocol: 'https',
+          hostname: 'github-readme-streak-stats.herokuapp.com',
+          port: '',
+          pathname: '/**',
+        },
+        {
+          protocol: 'https',
+          hostname: 'stardev.io',
+          port: '',
+          pathname: '/**',
+        },
+        {
+          protocol: 'http',
+          hostname: 'github-profile-summary-cards.vercel.app',
+          port: '',
+          pathname: '/**',
+        },
+        {
+          protocol: 'https',
+          hostname: 'github-profile-trophy.vercel.app',
+          port: '',
+          pathname: '/**',
+        }
+    ],
     dangerouslyAllowSVG: true,
   }
 }
